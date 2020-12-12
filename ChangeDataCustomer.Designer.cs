@@ -2,7 +2,7 @@
 {
     partial class ChangeDataCustomer
     {
-        /// <summary>
+        /// <summary>/////////////////////999999999999999999999
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
