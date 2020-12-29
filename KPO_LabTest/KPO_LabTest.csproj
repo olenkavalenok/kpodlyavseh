@@ -54,8 +54,13 @@
     <Reference Include="System.Windows.Forms" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CustomerTest.cs" />
+    <Compile Include="ChangeDataCustomerTest.cs" />
+    <Compile Include="ChangeDataProviderTest.cs" />
+    <Compile Include="LogInCustomerTest.cs" />
+    <Compile Include="LogInProviderTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SendMessageTest.cs" />
+    <Compile Include="SendRequestTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

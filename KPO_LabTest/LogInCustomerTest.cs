@@ -4,14 +4,14 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace KPO_Lab.Test
 {
     [TestClass]
-    public class CustomerTest
+    public class LogInCustomerTest
     {
         [TestMethod]
         public void LoginCustomer()
         {
             //arrange
-            String Login_Customer = "admin";
-            String Password_Customer = "1234";
+            string Login_Customer = "admin";
+            string Password_Customer = "12345";
             //act
             KPO_Lab.LogInCustomer mc = new KPO_Lab.LogInCustomer();
             bool res = true;
